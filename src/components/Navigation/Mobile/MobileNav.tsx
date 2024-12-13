@@ -16,8 +16,8 @@ export default function MobileNav({ setIsOpen, isOpen }: setIsOpenTypes) {
           <GiHamburgerMenu className="text-4xl" />
         )}
       </button>
-      <h1 className="text-purple-dark text-[21px] text-soda-red font-extrabold">
-        <img src="/logo/Compact_Dark_Mode.svg" className="w-14" />
+      <h1 className="text-purple-dark text-[21px] text-asu-red font-extrabold">
+        <img src="/logo/Compact_Light_Mode.svg" className="w-14" />
       </h1>
     </nav>
   );

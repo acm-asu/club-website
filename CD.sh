@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define variables
-REPO_DIR="/root/asu-soda-newsite"
+REPO_DIR="/root/club-website"
 DIST_DIR="$REPO_DIR/dist"
 BRANCH="main"  # Change this to the branch you want to pull
 

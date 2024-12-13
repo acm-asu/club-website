@@ -28,7 +28,7 @@ const IndividualBlog: React.FC<IndividualBlogProps> = ({
 }) => {
   return (
     <Link to={link} className="group relative block">
-      <div className="bg-soda-white rounded-lg p-6 w-80 h-100 overflow-hidden text-black font-sans transition transform hover:scale-105 hover:shadow-lg">
+      <div className="bg-std-white rounded-lg p-6 w-80 h-100 overflow-hidden text-black font-sans transition transform hover:scale-105 hover:shadow-lg">
         <img src={imageURL} alt={title} className="w-full rounded-lg" />
         <div className="flex flex-wrap gap-2 mt-2">
           {tag.map((t, index) => (
@@ -56,7 +56,7 @@ const IndividualBlog: React.FC<IndividualBlogProps> = ({
 export default function Blog() {
   return (
     <main className="mt-10 mb-16">
-      <h1 className="section-header-text mb-6">SoDA Programs</h1>
+      <h1 className="section-header-text mb-6">Blog</h1>
       <section className="flex max-md:flex-col gap-8 items-center justify-center">
         <IndividualBlog
           imageURL="/events/microsoft.JPG"

@@ -2,7 +2,7 @@
 
 ## Overview
 - Program Idea: Pair underclassmen with upperclassmen
-- Collaboration: Software Developers Association (SoDA)
+- Collaboration: Software Developers Association (ACM at ASU)
 - Team Size: 3-5 people to vet applications and pair mentors/mentees
 - Estimated Duration: 3-4 weeks for the entire process
 
@@ -31,8 +31,8 @@
 ### End-of-program Project
 - Assign projects for mentees to work on with their mentors
 - Project options:
-  1. Build an app (SoDA or CodeDevils project)
-  2. Create a portfolio website (SoDA)
+  1. Build an app (ACM at ASU or CodeDevils project)
+  2. Create a portfolio website (ACM at ASU)
   3. AI-related project
   4. Free choice
 
@@ -40,7 +40,7 @@
 
 ### Mentors
 - Volunteer opportunity
-- Special privileges (potentially related to SoDA/Industry speakers)
+- Special privileges (potentially related to ACM at ASU/Industry speakers)
 - Certificate of Mentorship for resume
 - Potential rewards: gift cards
 
@@ -54,7 +54,7 @@
 1. Submission of resume and application form
 2. Short interview with 2-3 mentors
 3. Evaluation based on:
-   - Involvement in SoDA
+   - Involvement in ACM at ASU
    - Skills demonstrated through resume and workshop performance
    - Interest and potential gain from the program
 

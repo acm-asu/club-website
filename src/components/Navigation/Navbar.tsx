@@ -3,6 +3,8 @@ import OpenedMobileNav from "./Mobile/OpenedMobileNav";
 import MobileNav from "./Mobile/MobileNav";
 
 import DesktopNav from "./DesktopNav";
+import Statistics from "../Stats/Statistics";
+import SocialMediaLinks from "../SocialMediaLinks";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState<boolean>(false);
@@ -10,11 +12,13 @@ function Navbar() {
   return (
     <nav className="navigation" style={{ marginTop: 0 }}>
       {/* Primary Navigation - Hidden on mobile */}
-      <DesktopNav />
-      {/*Mobile Navigation*/}
-      <MobileNav setIsOpen={setIsOpen} isOpen={isOpen} />
-      {/*Mobile Navigation when opened*/}
-      {isOpen && <OpenedMobileNav setIsOpen={setIsOpen} />}
+        <SocialMediaLinks />
+        <DesktopNav />
+
+        {/*Mobile Navigation*/}
+        <MobileNav setIsOpen={setIsOpen} isOpen={isOpen} />
+        {/*Mobile Navigation when opened*/}
+        {isOpen && <OpenedMobileNav setIsOpen={setIsOpen} />}
     </nav>
   );
 }

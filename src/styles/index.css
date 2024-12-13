@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  @apply bg-soda-black text-soda-white text-[18px] max-md:text-[14px] font-apfel min-h-screen flex flex-col justify-between;
+  @apply bg-std-black text-std-white text-[18px] max-md:text-[14px] font-apfel min-h-screen flex flex-col justify-between;
 }
 
 .nav-text-animation {
@@ -188,8 +188,8 @@ body {
 
 /* --------- STATS --------- */
 .statistics {
-  @apply bg-soda-white max-md:w-screen text-soda-black flex  
-  flex-row gap-4 py-4 px-6 my-2 justify-center flex-wrap md:rounded-[80px] z-10;
+  @apply bg-std-white max-md:w-screen text-std-black flex
+  flex-row gap-4 py-4 px-6 my-2 justify-center flex-wrap rounded-md z-10;
 }
 
 .stat-container {
@@ -222,7 +222,7 @@ body {
 }
 
 .hero-small-text {
-  @apply my-2 text-base  max-md:text-sm px-6 text-soda-gray;
+  @apply my-2 text-base  max-md:text-sm px-6 text-std-gray;
 }
 
 /* --------- SPONSORS --------- */
@@ -240,12 +240,12 @@ body {
 
 /* --------- NAVIGATION  --------- */
 .navigation {
-  @apply w-full fixed bg-soda-black z-20 max-md:py-0 py-1;
+  @apply w-full fixed bg-std-black z-20 max-md:py-0 py-1;
 }
 
 @layer utilities {
   .glassmorphism-effect {
-    @apply rounded-lg bg-clip-padding backdrop-filter backdrop-blur-sm mx-8 my-4 w-[96vw];
+    @apply rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm mx-8 my-4 w-[96vw];
     background-image: var(--tw-gradient-glass-gradient);
   }
 }
@@ -274,21 +274,21 @@ footer {
 
 /* --------- SOCIAL MEDIA LINKS --------- */
 .social-media-links {
-  @apply flex gap-4 text-3xl bg-soda-white rounded-full py-4 px-4 text-soda-black justify-center z-10;
+  @apply flex gap-8 text-3xl bg-std-white rounded-md py-4 px-4 text-std-black justify-center z-10;
 }
 
 /* --------- BUTTON --------- */
 .rounded-btn {
-  @apply px-2 py-1 bg-soda-red rounded-full;
+  @apply px-2 py-1 bg-asu-red rounded-md;
 }
 
 .right-arrow-btn {
-  @apply flex px-3 py-3  bg-soda-red rounded-full items-center hover:bg-[#c12654] justify-center;
+  @apply flex px-3 py-3  bg-asu-red rounded-md items-center hover:bg-[#c12654] justify-center;
 }
 
 .regular-btn {
-  @apply px-3 py-1 bg-soda-red rounded-lg;
+  @apply px-3 py-1 bg-asu-red rounded-md;
 }
 .btn-text {
-  @apply font-semibold text-soda-white text-[15px];
+  @apply font-semibold text-std-white text-[15px];
 }

@@ -3,181 +3,76 @@
     {
       "name": "Yoshihiro Kobayashi",
       "role": "Faculty Advisor",
-      "email": "ykobaya@asu.edu",
-      "image": "/logo/soda-logo-blue.png"
+      "image": "/logo/Compact_Light_Mode.svg"
     },
     {
-      "name": "Neel Madhav",
+      "name": "Ryan Woo",
+      "role": "Senior Student Advisor",
+      "image": "/headshots/ryan.jpg"
+    },
+    {
+      "name": "Anushka Singh",
       "role": "Student Advisor",
-      "email": "ndogra2@asu.edu",
-      "image": "/logo/soda-logo-blue.png"
+      "image": "/headshots/anushka.jpg"
     }
   ],
   "teams": {
-    "Leadership": [
+    "Chapter": [
       {
-        "name": "Anushka Singh",
-        "role": "President",
-        "email": "asing534@asu.edu",
-        "image": "/headshots/anushka.jpg"
+        "name": "Darsh Chaurasia",
+        "role": "Chapter Vice Chair, Internal Affairs",
+        "image": "/headshots/darsh.png"
       },
       {
-        "name": "Ryan Woo",
-        "role": "Vice President, Operations",
-        "email": "rtwoo@asu.edu",
-        "image": "/headshots/ryan.JPG"
+        "name": "John Basil",
+        "role": "Chapter Chair",
+        "image": "/logo/Compact_Light_Mode.svg"
       },
       {
-        "name": "Adi Kalyankar",
-        "role": "Treasurer",
-        "email": "ajkalyan@asu.edu",
-        "image": "/headshots/adi.JPG"
+        "name": "Elizabeth Pardhe",
+        "role": "Chapter Vice Chair, External Affairs",
+        "image": "/logo/Compact_Light_Mode.svg"
+      },
+      {
+        "name": "Cherry Goyal",
+        "role": "Chapter Treasurer",
+        "image": "/logo/Compact_Light_Mode.svg"
       }
     ],
-    "Industry Relations": [
-      {
-        "name": "Nishant Dhongadi",
-        "role": "Director, Industry Relations",
-        "email": "ndhongad@asu.edu",
-        "image": "/headshots/nishant.jpg"
-      },
-      {
-        "name": "Aibiike Kubanych kyzy",
-        "role": "Industry Relations Specialist",
-        "email": "akubany1@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "Victoria Fan",
-        "role": "Industry Relations Specialist",
-        "email": "vmfan@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      }
+    "Administration": [
+      
     ],
     "Technology": [
       {
-        "name": "Tanay Upreti",
-        "role": "Director, Technology",
-        "email": "tupreti@asu.edu",
-        "image": "/headshots/tanay.JPG"
-      },
-      {
-        "name": "Chelsea Lianne Gomez",
-        "role": "Workshop Content Developer",
-        "email": "ctgomez@asu.edu",
-        "image": "/headshots/chelsea.JPG"
-      },
-      {
-        "name": "Jackson Ourada",
-        "role": "Workshop Content Developer",
-        "email": "jourada@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "Avery Powers",
-        "role": "Software Developer",
-        "email": "aapower3@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
         "name": "Aryan Keluskar",
-        "role": "Software Developer",
-        "email": "akeluska@asu.edu",
+        "role": "Technology Chair",
         "image": "/headshots/aryan.png"
-      },
-      {
-        "name": "Sri Ujjwal Reddy Beereddy",
-        "role": "Special Events Organizer",
-        "email": "sbeeredd@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "Darsh Chaurasia",
-        "role": "Special Events Organizer",
-        "email": "dchauras@asu.edu",
-        "image": "/headshots/darsh.png"
-      }
-    ],
-    "Development & Enagement": [
-      {
-        "name": "Elizabeth Pardhe",
-        "role": "Director, Community Outreach",
-        "email": "epardhe@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "Aditi Prasath",
-        "role": "Development & Enagement Officer",
-        "email": "aprasath@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "Johnnessa Barroquillo",
-        "role": "Development & Enagement Officer",
-        "email": "jbarroqu@asu.edu",
-        "image": "/headshots/johnnessa.JPG"
-      },
-      {
-        "name": "Vi Hao Chau",
-        "role": "Development & Enagement Officer",
-        "email": "vchau3@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "Tyler Tannenbaum",
-        "role": "Development & Enagement Officer",
-        "email": "tntannen@asu.edu",
-        "image": "/headshots/tyler.JPG"
-      },
-      {
-        "name": "Harshit Kumar",
-        "role": "Development & Enagement Officer",
-        "email": "hkumar43@asu.edu",
-        "image": "/headshots/harshit.JPG"
       }
     ],
     "Marketing": [
+    
+    ],
+    "Operations": [
+
+    ],
+    "Engagement": [
       {
-        "name": "Ben Juntilla",
-        "role": "Director, Marketing",
-        "email": "cjuntill@asu.edu",
-        "image": "/headshots/ben.JPG"
-      },
+        "name": "Pita Sherwood",
+        "role": "Engagement Chair",
+        "image": "/logo/Compact_Light_Mode.svg"
+      }
+    ],
+    "Event": [
+
+    ],
+    "Industry": [
+
+    ],
+    "Academics": [
       {
-        "name": "Sara Schultz",
-        "role": "Social Media Manager",
-        "email": "sschul19@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "Izma Syed",
-        "role": "Marketing Assistant",
-        "email": "",
-        "image": "/headshots/izma.JPG"
-      },
-      {
-        "name": "Divanshu Chauhan",
-        "role": "Ambassador",
-        "email": "divchauhan@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "William Bode Hubbard",
-        "role": "Graphic Designer",
-        "email": "wbhubbar@asu.edu",
-        "image": "/logo/soda-logo-blue.png"
-      },
-      {
-        "name": "Marina Nasralla",
-        "role": "Graphic Designer",
-        "email": "mnasral2@asu.edu",
-        "image": "/headshots/marina.jpg"
-      },
-      {
-        "name": "Leon Auster Dsouza",
-        "role": "Marketing Assistant",
-        "email": "",
-        "image": "/logo/soda-logo-blue.png"
+        "name": "Ryan Woo",
+        "role": "Academics Chair",
+        "image": "/headshots/ryan.jpg"
       }
     ]
   }

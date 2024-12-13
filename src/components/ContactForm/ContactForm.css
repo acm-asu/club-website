@@ -74,7 +74,7 @@
 
 /* Card button */
 .button {
-    background-color: var(--soda-red-550);
+    background-color: var(--asu-red-550);
     color: white;
     border: none; /* Remove default border */
     border-radius: 25px;

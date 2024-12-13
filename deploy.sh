@@ -2,4 +2,4 @@
 
 
 
-/usr/local/bin/serve -s /root/asu-soda-newsite/dist -l 3000
+/usr/local/bin/serve -s /root/club-website/dist -l 3000

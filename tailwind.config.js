@@ -4,13 +4,13 @@ export default {
   theme: {
     extend: {
       colors: {
-        "soda-red": "#CA2352",
-        "soda-blue": "#3A64E4",
-        "soda-gray": "#B5BABA",
-        "soda-white": "#E7E7E5",
-        "soda-black": "#080909",
+        "asu-red": "#AA1342",
+        "acm-blue": "#3A64E4",
+        "std-gray": "#B5BABA",
+        "std-white": "#E7E7E5",
+        "std-black": "#080909",
       },
-      "soda-blue": {
+      "acm-blue": {
         900: "oklch(55% 0.2 266)",
         775: "oklch(55% 0.2 266)",
         675: "oklch(55% 0.2 266)",
@@ -20,15 +20,15 @@ export default {
         225: "oklch(55% 0.2 266)",
         100: "oklch(55% 0.2 266)",
       },
-      "soda-red": {
-        900: "oklch(55% 0.2 12)",
-        775: "oklch(55% 0.2 12)",
-        675: "oklch(55% 0.2 12)",
-        550: "oklch(55% 0.2 12)",
-        450: "oklch(55% 0.2 12)",
-        325: "oklch(55% 0.2 12)",
-        225: "oklch(55% 0.2 12)",
-        100: "oklch(55% 0.2 12)",
+      "asu-red": {
+        900: "oklch(35% 0.2 12)",
+        775: "oklch(35% 0.2 12)",
+        675: "oklch(35% 0.2 12)",
+        550: "oklch(35% 0.2 12)",
+        450: "oklch(35% 0.2 12)",
+        325: "oklch(35% 0.2 12)",
+        225: "oklch(35% 0.2 12)",
+        100: "oklch(35% 0.2 12)",
       },
       surface: {
         900: "oklch(13.85% 0.0019 196.94)",

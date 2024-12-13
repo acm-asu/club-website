@@ -10,11 +10,11 @@ type ContentItemTypes = {
 const content = [
   {
     id: 1,
-    title: "How To Join SoDA",
+    title: "How To Join ACM at ASU",
     content: [
       <p key="p1">
-        Want to join SoDA? Just go to one of our meetings! Everyone who attends
-        our meetings is a SoDA member.
+        Want to join ACM at ASU? Just go to one of our meetings! Everyone who attends
+        our meetings is a ACM at ASU member.
       </p>,
     ],
     button: "Join our SunDevilSync",
@@ -36,19 +36,19 @@ const content = [
     title: "Technical Workshops",
     content: [
       <p key="p3">
-        Want to join SoDA? Just go to one of our meetings! Everyone who attends
-        our meetings is a SoDA member.
+        Want to join ACM at ASU? Just go to one of our meetings! Everyone who attends
+        our meetings is a ACM at ASU member.
       </p>,
     ],
     button: "Learn more",
   },
   {
     id: 4,
-    title: "SoDA Code Challenge X",
+    title: "ACM at ASU Code Challenge X",
     content: [
       <p key="p4">
-        Want to join SoDA? Just go to one of our meetings! Everyone who attends
-        our meetings is a SoDA member.
+        Want to join ACM at ASU? Just go to one of our meetings! Everyone who attends
+        our meetings is a ACM at ASU member.
       </p>,
     ],
     button: "Sign up now",
@@ -58,8 +58,8 @@ const content = [
     title: "Community",
     content: [
       <p key="p5">
-        Want to join SoDA? Just go to one of our meetings! Everyone who attends
-        our meetings is a SoDA member.
+        Want to join ACM at ASU? Just go to one of our meetings! Everyone who attends
+        our meetings is a ACM at ASU member.
       </p>,
     ],
     button: "Join our SunDevilSync",

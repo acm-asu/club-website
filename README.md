@@ -1,20 +1,20 @@
 ![Thesoda.io](/public/thesoda.io.png)
 
-<img src='https://img.shields.io/github/license/asusoda/asu-soda-newsite?style=for-the-badge'>
+<img src='https://img.shields.io/github/license/acm-asu/club-website?style=for-the-badge'>
 
 # 🚀 thesoda.io 2024
 
-### The Software Developers Association (SoDA)
+### ACM Student Chapter at ASU (ACM at ASU)
 
-The Software Developers Association (SoDA) at Arizona State University, is a student run, free organization dedicated to serving ASU’s computer science students. SoDA is one of the largest communities of students on campus, and is the largest engineering organization. We provide opportunities to collaborate on projects outside of the classroom, learn from university and industry professionals, and prepare for a career as a software developer.
+ACM Student Chapter at ASU (ACM at ASU) at Arizona State University, is a student run, free organization dedicated to serving ASU’s computer science students. ACM at ASU is one of the largest communities of students on campus, and is the largest engineering organization. We provide opportunities to collaborate on projects outside of the classroom, learn from university and industry professionals, and prepare for a career as a software developer.
 
 <div align="center">
 
-**[RUN THE DEVELOPMENT](https://github.com/asusoda/asu-soda-newsite#-how-to-run-website-locally) •
-[TECH STACK](https://github.com/asusoda/asu-soda-newsite#-tech-stack) •
-[CONTRIBUTING](https://github.com/asusoda/asu-soda-newsite#-contributing) •
-[SPREAD THE WORDS](https://github.com/asusoda/asu-soda-newsite#-spread-the-word) •
-[LICENSE](https://github.com/asusoda/asu-soda-newsite#-license)**
+**[RUN THE DEVELOPMENT](https://github.com/acm-asu/club-website#-how-to-run-website-locally) •
+[TECH STACK](https://github.com/acm-asu/club-website#-tech-stack) •
+[CONTRIBUTING](https://github.com/acm-asu/club-website#-contributing) •
+[SPREAD THE WORDS](https://github.com/acm-asu/club-website#-spread-the-word) •
+[LICENSE](https://github.com/acm-asu/club-website#-license)**
 
 </div>
 
@@ -23,7 +23,7 @@ The Software Developers Association (SoDA) at Arizona State University, is a stu
 The website uses npm, which manages all dependencies and has a dummy server that you can run on your local machine to view the website.
 
 ```shell
-> cd asu-soda-newsite
+> cd club-website
 > npm i #install all dependencies if this is the first time you are doing this
 > npm ci (optional)
 > npm run dev
@@ -45,12 +45,12 @@ Here's a brief high-level overview of the tech stack the `thesoda.io` uses:
 
 Interested in contributing to the `thesoda.io`? Thanks so much for your interest! We are always looking for improvements to the project and contributions from open-source developers are greatly appreciated.
 
-Please consult to our main developer [Luan Nguyen](https://github.com/LuaanNguyen) if you have a contribution in mind. We will be publishing a [Contribution Guide](https://github.com/asusoda/asu-soda-newsite) for more information on how to do so.
+Please consult to our main developer [Luan Nguyen](https://github.com/LuaanNguyen) if you have a contribution in mind. We will be publishing a [Contribution Guide](https://github.com/acm-asu/club-website) for more information on how to do so.
 
 ## 💙 Thank you to our current/ past contributors
 
-<a href="https://github.com/asusoda/asu-soda-newsite/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=asusoda/asu-soda-newsite" />
+<a href="https://github.com/acm-asu/club-website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=acm-asu/club-website" />
 </a>
 
 <br><br/>
@@ -60,9 +60,9 @@ Please consult to our main developer [Luan Nguyen](https://github.com/LuaanNguye
 If you want to say thank you and/or support active development of `thesoda.io`:
 
 - Add a GitHub Star to the project!
-- Share/ Tag [@soda.asu](https://www.instagram.com/soda.asu/) on your instagram!
+- Share/ Tag [@acm-asu](https://www.instagram.com/acm-asu/) on your instagram!
 - Check out our [Discord](https://discord.com/invite/EsVNGqSd3Y) server.
-- Join our [Weekly Meeting](https://asu.campuslabs.com/engage/organization/soda)
+- Join our [Weekly Meeting](https://asu.campuslabs.com/engage/organization/acm-asu)
 
 # 🪪 License
 

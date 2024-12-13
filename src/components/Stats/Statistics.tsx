@@ -1,6 +1,6 @@
 import AnimatedNumber from "../logic/AnimatedNumber";
 import { Statistic } from "semantic-ui-react";
-import teamsData from "../../assets/teams.json";
+import teamsData from "../../components/Team/TeamList.json";
 import RoundedButton from "../Button/RiArrowButton";
 
 const dollarFormatter = new Intl.NumberFormat("US", {
@@ -12,11 +12,11 @@ const advisors = teamsData.advisors;
 
 const statistics = [
   {
-    key: "pizza",
-    label: "worth of pizza served",
-    value: 22500,
-    steps: 1000,
-    formatter: (x: number) => <>{dollarFormatter.format(x)}</>,
+    key: "interests",
+    label: "interest areas",
+    value: 16,
+    steps: 1,
+    formatter: (x: number) => <>{x}</>,
   },
   {
     key: "sponsors",
@@ -68,7 +68,7 @@ export default function Statistics() {
 
       <RoundedButton
         name="Learn More"
-        url="https://asu.campuslabs.com/engage/organization/soda"
+        url="https://asu.campuslabs.com/engage/organization/acm-asu"
       ></RoundedButton>
     </div>
   );

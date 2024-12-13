@@ -3,22 +3,100 @@ import HorizontalLine from "./ui/HorizontalLine";
 
 const perks = [
   {
-    header: "Unlimited Opportunities & Career Development",
+    header: "Data",
     description:
-      "SoDA offers boundless opportunities to advance your career. From technical workshops hosted by industry leaders to career fairs and networking events, you’ll gain invaluable experience and connections to kickstart your journey as a software developer.",
-    imgURL: "/events/amazon-table.png",
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
   },
   {
-    header: "Community and Support",
+    header: "Algorithms",
     description:
-      "SoDA provides a supportive network of fellow computer science students, offering collaboration, encouragement, and a sense of belonging through regular meetings and events with free food.",
-    imgURL: "/events/microsoft-resume-review.JPG",
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
   },
   {
-    header: "Learning and Development",
+    header: "Security",
     description:
-      "Enhance your skills through a variety of learning opportunities, including coding workshops, bootcamps, and talks from industry professionals. SoDA is committed to your personal and professional growth, ensuring you stay ahead in the fast-paced tech world.",
-    imgURL: "/events/what-is-soda.jpg",
+      "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Architecture",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Networking",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Embedded",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Software",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Distributed",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Human-Computer Interaction",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Artificial Intelligence",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "High-Performance Computing",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Quantum Computing",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Theory",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Applied",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Ethics",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
+  },
+  {
+    header: "Emerging",
+    description:
+        "Topics include: . Activities and resources facilitated by the ACM include forums, symposia, conferences, publications,literature, tools and programs. Relevant SIGs: .",
+    imgURL: "/logo/Compact_Light_Mode.svg",
   },
 ];
 
@@ -29,18 +107,17 @@ export default function AboutUs() {
       id="info"
     >
       <section className="text-center max-md:text-left">
-        <h1 className="section-header-text">About SoDA</h1>
+        <h1 className="section-header-text">Explore your Interests</h1>
         <p className="hero-small-text px-24 max-lg:px-6 mx-auto max-md:hidden">
-          The Software Developers Association (SoDA) at Arizona State University
-          is a student-run, free organization dedicated to serving ASU’s
-          computer science students. SoDA is one of the largest communities of
-          students on campus, and is the largest engineering organization. We
-          provide opportunities to collaborate on projects outside of the
-          classroom, learn from university and industry professionals, and
-          prepare for a career as a software developer.
+          ACM at ASU serves as a hub for special interests,
+          <br/>
+          connecting the ACM to students
+          across the spectrum of ASU computing clubs,
+          <br/>
+          who partner with the ACM at ASU as Special Interest Groups (SIGs).
         </p>
         <p className="hero-small-text px-24 max-lg:px-6 mx-auto sm:hidden">
-          SoDA is one of the largest communities of students on campus, and is
+          ACM at ASU is one of the largest communities of students on campus, and is
           the largest engineering organization. We provide opportunities to
           collaborate on projects outside of the classroom, learn from
           university and industry professionals, and prepare for a career as a
@@ -48,7 +125,7 @@ export default function AboutUs() {
         </p>
       </section>
 
-      <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 my-10">
+      <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-1 my-1">
         {perks.map((perk) => (
           <div className="bg-white rounded-2xl flex flex-col min-h-[300px] max-w-[300px] w-full">
             <img
@@ -56,15 +133,16 @@ export default function AboutUs() {
               className="rounded-t-xl object-cover w-full h-48"
               alt={perk.header}
             />
-            <div className="text-soda-black px-4 py-3 text-left flex-1">
+            <div className="text-std-black px-4 py-3 text-left flex-1">
               <h4 className="font-semibold text-xl max-md:text-lg">
                 {perk.header}
               </h4>
-              <hr className="border-soda-gray opacity-75 my-2 w-[60%]" />
+              <hr className="border-std-gray opacity-75 my-2 w-[60%]" />
               <p className="text-[14px] max-md:text-sm">{perk.description}</p>
             </div>
           </div>
         ))}
+
       </section>
     </main>
   );

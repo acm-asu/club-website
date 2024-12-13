@@ -1,14 +1,14 @@
 @import url("../../styles/fonts.css");
 
 :root {
-  --soda-red-900: oklch(55% 0.2 12);
-  --soda-red-775: oklch(55% 0.2 12);
-  --soda-red-675: oklch(55% 0.2 12);
-  --soda-red-550: oklch(55% 0.2 12);
-  --soda-red-450: oklch(55% 0.2 12);
-  --soda-red-325: oklch(55% 0.2 12);
-  --soda-red-225: oklch(55% 0.2 12);
-  --soda-red-100: oklch(55% 0.2 12);
+  --asu-red-900: oklch(55% 0.2 12);
+  --asu-red-775: oklch(55% 0.2 12);
+  --asu-red-675: oklch(55% 0.2 12);
+  --asu-red-550: oklch(55% 0.2 12);
+  --asu-red-450: oklch(55% 0.2 12);
+  --asu-red-325: oklch(55% 0.2 12);
+  --asu-red-225: oklch(55% 0.2 12);
+  --asu-red-100: oklch(55% 0.2 12);
 }
 
 .infocards {
@@ -85,7 +85,7 @@
 
 /* Card button */
 .card-button {
-  background-color: var(--soda-red-550);
+  background-color: var(--asu-red-550);
   color: white;
   border: none; /* Remove default border */
   border-radius: 25px;

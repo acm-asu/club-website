@@ -1,14 +1,11 @@
 import RoundedButton from "../Button/RiArrowButton";
+import Statistics from "../Stats/Statistics";
+import SocialMediaLinks from "../SocialMediaLinks";
 
 const navLinks = [
   {
     name: "Info",
     id_href: "#info",
-    cssClass: "nav-text-animation",
-  },
-  {
-    name: "Sponsors",
-    id_href: "#sponsors",
     cssClass: "nav-text-animation",
   },
   {
@@ -18,12 +15,7 @@ const navLinks = [
   },
   {
     name: "Events",
-    id_href: "https://asu.campuslabs.com/engage/organization/soda/events",
-    cssClass: "nav-text-animation",
-  },
-  {
-    name: "HackSoDA24",
-    id_href: "https://hack.thesoda.io",
+    id_href: "https://asu.campuslabs.com/engage/organization/acm-asu/events",
     cssClass: "nav-text-animation",
   },
   {
@@ -48,23 +40,13 @@ export default function DesktopNav() {
       cssClass: "nav-text-animation",
     },
     {
-      name: "Sponsors",
-      id_href: "#sponsors",
-      cssClass: "nav-text-animation",
-    },
-    {
       name: "Team",
       id_href: "#team",
       cssClass: "nav-text-animation",
     },
     {
       name: "Events",
-      id_href: "https://asu.campuslabs.com/engage/organization/soda/events",
-      cssClass: "nav-text-animation",
-    },
-    {
-      name: "HackSoDA24",
-      id_href: "https://hack.thesoda.io",
+      id_href: "https://asu.campuslabs.com/engage/organization/acm-asu/events",
       cssClass: "nav-text-animation",
     },
     {
@@ -87,9 +69,9 @@ export default function DesktopNav() {
   return (
     <section className="nav-container">
       <a href="/" className="flex gap-4 items-center">
-        <img src="logo/Soda_Logo_Dark_Mode.svg" className="w-28 aspect-square" />
+        <img src="logo/Full_Dark_Mode.svg" className="w-28 aspect-square" />
       </a>
-      <ul className="flex gap-14 items-center text-soda-white font-bold">
+      <ul className="flex gap-14 items-center text-std-white font-bold">
         {navLinks.map((el) => (
           <li key={el.name}>
             <a
@@ -104,8 +86,8 @@ export default function DesktopNav() {
           </li>
         ))}
       </ul>
-      <a href="https://asu.campuslabs.com/engage/organization/soda">
-        <RoundedButton name="Join SoDA" url="https://asu.campuslabs.com/engage/organization/soda"/>
+      <a href="https://asu.campuslabs.com/engage/organization/acm-asu">
+        <RoundedButton name="Join" url="https://asu.campuslabs.com/engage/organization/acm-asu"/>
       </a>
     </section>
   );

@@ -14,7 +14,7 @@ function Hero() {
               <Typewriter
                 onInit={(typewriter) => {
                   typewriter
-                    .typeString("The Software Developers Association")
+                    .typeString("The ACM is now at ASU")
                     .changeDelay(5)
                     .pauseFor(1500)
                     .changeDelay(5) // Adjust speed for delete effect
@@ -23,14 +23,14 @@ function Hero() {
               />
             </h1>
             <p className="hero-small-text max-md:hidden">
-              SoDA is one of the largest communities of students at Arizona
-              State University. We provide opportunities to collaborate on
-              projects outside of the classroom, learn from university and
-              industry professionals, and prepare for a career as a software
-              developer.
+              With over 100,000 members worldwide, the ACM is the world's largest computing society, promoting
+              knowledge and interest in the science, design, development, management, and applications of computing.
+              <br/>
+              <br/>
+              ACM at ASU achieves this by
+              fostering collaboration and community between students and the ACM through opportunities for
+              networking, learning, mentoring and knowledge-sharing.
             </p>
-            <Statistics />
-            <SocialMediaLinks />
           </summary>
           <EventsPhotoCarousel />
         </section>

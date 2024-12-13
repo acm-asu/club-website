@@ -17,7 +17,7 @@ The **Distinguished Members Program** is designed to incentivize active involvem
 
 Members can earn points through various activities such as attending meetings, participating in discussions, contributing to projects, and more. These points lead to numerous benefits, including:
 
-- **Priority Opportunities:** Access to limited-space events and seats on SoDA Team Trip to Sponsor's Office (more details to come as the semester progresses).
+- **Priority Opportunities:** Access to limited-space events and seats on ACM at ASU Team Trip to Sponsor's Office (more details to come as the semester progresses).
 - **Professional Advancement:** Enhanced visibility in our Resume Book and potential recommendation letters.
 - **Exclusive Access:** Voting rights on future workshop topics and direct interactions with industry professionals.
 - **Alumini Banquet:** Invitation to Alumini Banquet at the end of the semester/year. (more details comming out soon)

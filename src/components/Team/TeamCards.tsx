@@ -29,7 +29,7 @@ class MemberCards extends Component<MemberCardsProps> {
         </Divider>
         <br />
         <div id="content" className="">
-          SoDA is here to help you. Please feel free to reach out to any of us,
+          ACM at ASU is here to help you. Please feel free to reach out to any of us,
           we want to help and would be happy to answer any questions you have!
         </div> */}
 

@@ -7,10 +7,10 @@ const markdownContent = `
 
 ## Overview
 
-The Mentorship Program is designed to connect underclassmen with experienced upperclassmen to foster professional growth and development. This initiative, in collaboration with the Software Developers Association (SoDA), aims to provide valuable guidance and support to students through a structured mentoring process.
+The Mentorship Program is designed to connect underclassmen with experienced upperclassmen to foster professional growth and development. This initiative, in collaboration with the Software Developers Association (ACM at ASU), aims to provide valuable guidance and support to students through a structured mentoring process.
 
 - **Program Idea:** Pair underclassmen with upperclassmen for mentorship.
-- **Collaboration:** Partnered with SoDA.
+- **Collaboration:** Partnered with ACM at ASU.
 - **Team Size:** 3-5 individuals to manage applications and mentor/mentee pairings.
 - **Estimated Duration:** 3-4 weeks for the entire process.
 
@@ -44,8 +44,8 @@ The Mentorship Program is designed to connect underclassmen with experienced upp
 
 Mentees will work on projects with their mentors, including:
 
-1. **Build an App:** Contribute to a SoDA or CodeDevils project.
-2. **Create a Portfolio Website:** Develop a personal or SoDA-related website.
+1. **Build an App:** Contribute to a ACM at ASU or CodeDevils project.
+2. **Create a Portfolio Website:** Develop a personal or ACM at ASU-related website.
 3. **AI-Related Project:** Engage in a project related to artificial intelligence.
 4. **Free Choice:** Select a project of personal interest.
 
@@ -69,7 +69,7 @@ Mentees will work on projects with their mentors, including:
 
 1. **Submit Resume and Application Form:** Provide necessary documentation and information.
 2. **Short Interview:** Participate in an interview with 2-3 mentors.
-3. **Evaluation Criteria:** Assessment based on involvement in SoDA, skills demonstrated through the resume and workshops, and potential gain from the program.
+3. **Evaluation Criteria:** Assessment based on involvement in ACM at ASU, skills demonstrated through the resume and workshops, and potential gain from the program.
 
 ## Notes for Future Consideration
 

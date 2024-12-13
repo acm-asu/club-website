@@ -35,7 +35,7 @@ import Login from "../pages/Login";
 const products = [
   {
     name: "Blog",
-    description: "Read up on the latest from SoDA",
+    description: "Read up on the latest from ACM at ASU",
     href: "#",
     icon: ChatBubbleOvalLeftEllipsisIcon,
   },
@@ -80,8 +80,8 @@ export default function NavigationBar() {
           <div className="flex lg:flex-1">
             <Link to="/Home">
               <a href="#" className="-m-1.5 p-1.5">
-                <span className="sr-only">SoDA</span>
-                <img className="h-8 w-auto" src="/soda.png" alt="" />
+                <span className="sr-only">ACM at ASU</span>
+                <img className="h-8 w-auto" src="/acm-asu.png" alt="" />
               </a>
             </Link>
           </div>
@@ -232,8 +232,8 @@ export default function NavigationBar() {
           <DialogPanel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
             <div className="flex items-center justify-between">
               <a href="#" className="-m-1.5 p-1.5">
-                <span className="sr-only">SoDA</span>
-                <img className="h-8 w-auto" src="../public/soda.png" alt="" />
+                <span className="sr-only">ACM at ASU</span>
+                <img className="h-8 w-auto" src="../public/acm-asu.png" alt="" />
               </a>
               <button
                 type="button"
