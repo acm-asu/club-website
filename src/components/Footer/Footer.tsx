@@ -17,3 +17,6 @@ export default function Footer() {
     </footer>
   );
 }
+
+// TODO: Possibly remove redunant menu in footer (already present in navbar), mimimizing to copyright
+// TODO: Possibly move statistics inside footer atop copyright

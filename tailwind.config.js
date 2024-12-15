@@ -114,3 +114,4 @@ export default {
     require('@tailwindcss/typography'),
   ],
 };
+// TODO: Update colors according to style guide

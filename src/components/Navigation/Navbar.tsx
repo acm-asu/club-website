@@ -24,3 +24,5 @@ function Navbar() {
 }
 
 export default Navbar;
+
+// TODO: Possibly add progress bar that expands/contracts on scroll as border bottom

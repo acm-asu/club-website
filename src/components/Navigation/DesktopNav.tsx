@@ -92,3 +92,7 @@ export default function DesktopNav() {
     </section>
   );
 }
+
+// TODO: Implement animated navbar on scroll to shrink Logo and navbar height
+//    possibly change color to differentiate from block background (or change background below hero)
+// TODO: Possibly switch to button menu

@@ -147,3 +147,9 @@ export default function AboutUs() {
     </main>
   );
 }
+// TODO: Add images representing each interest and replace references to placeholder
+// TODO: Possibly remove text, convert images to image buttons with text, click event handler opens lightbox
+//    with more descriptive text, images, links, etc. corresponding to interest
+// TODO: Implement embedded SIG event calendar, either with calendar iframe, or API like FUllCalendar
+// TODO: Possibly add text button for opening calendar from lightbox
+// TODO: Possibly add text button for viewing partners, sponsors, blog, team, and remove subsequent home modules

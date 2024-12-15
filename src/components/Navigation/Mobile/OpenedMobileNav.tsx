@@ -83,3 +83,8 @@ export default function OpenedMobileNav({ setIsOpen }: setIsOpenTypes) {
     </section>
 );
 }
+
+// TODO: Change background color
+// TODO: Apply fade-in/-out animation
+// TODO: Possibly use full screen open as page content is obscured behind partial-page menu
+//      (or adjust page content width)

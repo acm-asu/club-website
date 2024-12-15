@@ -9,3 +9,6 @@ function EventsPhotoCarousel() {
 }
 
 export default EventsPhotoCarousel;
+
+// TODO: Replace place holder with, either, linked images and text, or SIG event calendar
+//  (if latter, ignore #about comment)

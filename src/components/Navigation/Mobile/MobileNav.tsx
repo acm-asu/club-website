@@ -22,3 +22,5 @@ export default function MobileNav({ setIsOpen, isOpen }: setIsOpenTypes) {
     </nav>
   );
 }
+
+// TODO: Implement navbar animation on scroll to shrink/expand logo and navbar height

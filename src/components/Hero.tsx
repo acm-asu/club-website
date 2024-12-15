@@ -40,3 +40,5 @@ function Hero() {
 }
 
 export default Hero;
+
+// TODO: Possibly add down arrow button for scrolling to next section (#about)
